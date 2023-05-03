@@ -10,4 +10,3 @@ I'm a UFPI student 📚, I'm currently studying C and Python
                                                                                                                                                   
 ## O.S:  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-## ![N4SX Status](https://github-readme-stats.vercel.app/api?username=N4SX&show_icons=true)  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=N4SX&layout=compact)](https://github.com/N4SX/github-readme-stats)
