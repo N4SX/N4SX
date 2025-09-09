@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Olá, meu nome é David Natan, atualmente sou graduando no curso de sistemas de informação pela UFPI<br>Atualmente estou atuando em pesquisas relacionadas a análise de dados e interação humano computador, aspirante em aprender novas tecnologias e encarar novos desafios.</p>
+<p align="left">Olá, meu nome é David Natan, atualmente sou graduando no curso de sistemas de informação pela Universidade Federal do Piauí<br>Atualmente estou atuando em pesquisas relacionadas a análise de dados e interação humano computador, aspirante em aprender novas tecnologias e encarar novos desafios.</p>
 
 ###
 
